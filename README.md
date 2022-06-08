@@ -106,7 +106,7 @@ Then click **Read-only API token** and copy the token.
 Next, copy the `.env.local.example` file in this directory to `.env.local` (which will be ignored by Git):
 
 ```bash
-cp .env.local.example .env.local
+cp .env.local .env.local
 ```
 
 Then set each variable on `.env.local`:
